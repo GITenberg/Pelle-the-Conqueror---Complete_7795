@@ -1,5 +1,5 @@
 _repo: Pelle-the-Conqueror---Complete_7795
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Pelle Erobreren. English
 contributor:
   translators:
@@ -12,6 +12,9 @@ contributor:
     birthdate: 1876
     gutenberg_agent_id: '1214'
     url: http://www.gutenberg.org/2009/agents/1214
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Andersen Nexø, Martin
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2530
     wikipedia: http://en.wikipedia.org/wiki/Martin_Andersen_Nexø
 description: 'Translation of: Pelle Erobreren'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7795#Pelle-the-Conqueror---Complete
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
 identifiers:
